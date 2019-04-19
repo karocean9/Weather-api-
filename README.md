@@ -161,7 +161,7 @@ C:\Angular\weather-api>gulp
 operable program or batch file.
 
  
-# Installit using the following command 
+# Install it using the following command 
 
 C:\Angular\weather-api>npm install -g gulp
 
